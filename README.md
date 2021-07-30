@@ -6,6 +6,7 @@ A new Flutter application.
 
 This is my first flutter based app that I made during my internship at Cyber forensic and Investigation.
 It's an educational based app that contains various courses.
+https://user-images.githubusercontent.com/88173597/127688645-96bda561-c1aa-4924-8b52-9890d31cf1e3.mp4
 
 ![WhatsApp Image 2021-07-30 at 19 05 36](https://user-images.githubusercontent.com/88173597/127662053-051f9037-7460-4d33-90fb-307aadee168c.jpeg)
 ![Screenshot_2021-07-30-18-58-54-05](https://user-images.githubusercontent.com/88173597/127662072-0cc39f87-0ec5-4c66-9e78-1e9fea3b9f9d.jpg)
