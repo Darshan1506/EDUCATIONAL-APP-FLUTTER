@@ -5,7 +5,7 @@ A new Flutter application.
 ## Getting Started
 
 This is my first flutter based app that I made during my internship at Cyber forensic and Investigation.
-It's an educational based app that contains various courses.
+It's an educational based app that contains various courses. I have the Permission of the company to display this work.
 
 https://user-images.githubusercontent.com/88173597/127688645-96bda561-c1aa-4924-8b52-9890d31cf1e3.mp4
 
